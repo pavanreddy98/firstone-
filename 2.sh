@@ -7,4 +7,4 @@ cd /opt/
 sudo tar -xvzf /tmp/apache-maven-3.6.3-bin.tar.gz
 ls
 cd apache-maven-3.6.3/
-chmod g+w,o+w apache-maven-3.6.3
+sudo chmod g+w,o+w apache-maven-3.6.3
